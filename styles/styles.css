@@ -104,6 +104,10 @@ input[type="submit"]:focus {
     border: 6px solid #ffce00;
 }
 
+.img-box video {
+    width: 100%;
+}
+
 
 
 @media (max-width: 780px) {
